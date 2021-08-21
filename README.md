@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary card
+# Frontend Mentor - Order summary card (SOLUTION)
 
 ## Welcome! 👋
 
